@@ -1,34 +1,18 @@
-# 🚀 Landing Page
+# Landing Page
 
-A responsive landing page built with **HTML** and **CSS**.
+This is a modern and minimal landing page built using HTML and CSS. It highlights services in a clean, responsive layout.
 
-## 🌟 Features
+## 🔧 Technologies Used
+- HTML
+- CSS
 
-- Responsive design
-- Hero section with call-to-action
-- About and Services sections
-- Footer with social links
+## 📌 Features
+- Fully responsive layout
+- Eye-catching header and footer
+- Service sections: Design, Develop, Deploy
 
-## 📂 Files
+## 📁 Folder Structure
+- index.html
+- style.css
 
-- `index.html` – Main HTML file
-- `style.css` – Styling for the landing page
-- `assets/` – Images and other media (optional)
 
-## 🖼️ Sample Output
-
-![Landing Page ](assets/sample-output.png)
-
-## ▶️ How to Run
-
-1. Clone or download the repo.
-2. Open `index.html` in your browser.
-
-## 🛠️ Tech Used
-
-- HTML5
-- CSS3
-
-## 📄 License
-
-Free to use for educational purposes.
